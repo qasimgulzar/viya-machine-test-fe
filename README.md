@@ -1,6 +1,12 @@
 # FeViyaMachineTest
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
+This project is containing the the frontend implementation of the project. This project is a simple CRUD application for managing the ranks for the provided profiles.
+
+## Pre-requisites
+
+- Node.js
+- Angular CLI
+- [Viya Machine Test Backend](https://github.com/qasimgulzar/viya-machine-test)
 
 ## Development server
 
